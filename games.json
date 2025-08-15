@@ -2,6 +2,46 @@
     {
         "name": "BLOODMONEY!",
         "slug": "bloodmoney",
-        "image": "/cache/data/image/game/blood-money/bloodmoney-m186x186.webp"
+        "image": "/cache/data/image/game/bloodmoney/bloodmoney-m186x186.webp"
+    },
+    {
+        "name": "Bloodmoney Game",
+        "slug": "bloodmoney-game",
+        "image": "/cache/data/image/game/bloodmoney-game/bloodmoney-game-m186x186.webp"
+    },
+    {
+        "name": "Amanda The Adventurer",
+        "slug": "amanda-the-adventurer",
+        "image": "/cache/data/image/game/amanda-the-adventurer/amanda-the-adventurer-m186x186.webp"
+    },
+    {
+        "name": "Baldi\u2019s Basics",
+        "slug": "baldi-s-basics",
+        "image": "/cache/data/image/game/baldi-s-basics/baldi-s-basics-m186x186.webp"
+    },
+    {
+        "name": "Buckshot Roulette",
+        "slug": "buckshot-roulette",
+        "image": "/cache/data/image/game/buckshot-roulette/buckshot-roulette-m186x186.webp"
+    },
+    {
+        "name": "EVISCERATE THIS GIRL",
+        "slug": "eviscerate-this-girl",
+        "image": "/cache/data/image/game/eviscerate-this-girl/eviscerate-this-girl-m186x186.webp"
+    },
+    {
+        "name": "Room Invaders",
+        "slug": "room-invaders",
+        "image": "/cache/data/image/game/room-invaders/room-invaders-m186x186.webp"
+    },
+    {
+        "name": "Mystfed",
+        "slug": "mystfed",
+        "image": "/cache/data/image/game/mystfed/mystfed-m186x186.webp"
+    },
+    {
+        "name": "BLOOD MONEY",
+        "slug": "blood-money",
+        "image": "/cache/data/image/game/blood-money/blood-money-m186x186.webp"
     }
 ]
